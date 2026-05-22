@@ -1,0 +1,6 @@
+{
+  "name": "AssetTrack",
+  "description": "A cinematic, highly structured Neo-Noir asset dossier security dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
